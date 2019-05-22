@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1558403126 source:c:\users\kryat\desktop\utn\ejercicio peluqueria\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"fechas.h"
+	"tinturas.h"
+
+1558404073 c:\users\kryat\desktop\utn\ejercicio peluqueria\tinturas.h
+
+1558403528 c:\users\kryat\desktop\utn\ejercicio peluqueria\fechas.h
+
+1558494924 source:c:\users\kryat\desktop\ejercicio objetos\ejercicio peluqueria\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<conio.h>
+	"funciones/fechas.h"
+	"funciones/tinturas.h"
+
+1558488284 c:\users\kryat\desktop\ejercicio objetos\ejercicio peluqueria\funciones\fechas.h
+
+1558495672 c:\users\kryat\desktop\ejercicio objetos\ejercicio peluqueria\funciones\tinturas.h
+
